@@ -163,6 +163,9 @@ The same dish (e.g. Jollof Rice) has different prices at different tray sizes. S
 
 ---
 
+Download files.zip to access all project files at once.
+
+--
 ## 👤 Author
 
 **Ayomide Omotoso**  
